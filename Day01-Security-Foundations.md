@@ -23,4 +23,4 @@ Studied the "Digital Property Line" between AWS and the Customer.
 ### 3. Securing Accounts (Hardening)
 * **Principle of Least Privilege:** Granting only the specific permissions a user needs to perform a task—and nothing more.
 * **Password Policies:** Enforcing length, complexity, and rotation to prevent brute-force attacks.
-* **MFA (Multi-Factor Authentication):** The critical second layer of defense (Something you know + Something you have).
+* **MFA (Multi-Factor Authentication):** The critical second layer of defense (Something you know + Something you have). 
