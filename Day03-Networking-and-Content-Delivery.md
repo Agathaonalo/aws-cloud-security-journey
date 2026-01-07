@@ -17,6 +17,7 @@
 * **VPC Sizing:** Typically uses a **/16** (65,536 IPs) for the main network.
 * **Subnet Sizing:** Typically uses a **/24** (256 IPs) for subnets inside the VPC.
 * **AWS Constraint:** The minimum subnet size allowed is **/28** (16 IPs).
+  * *The maximum subnet size allowed is **/16** 
 
 ### 3. Amazon VPC & Subnets
 * **VPC (Virtual Private Cloud):** A private network logically isolated in the AWS Cloud.
