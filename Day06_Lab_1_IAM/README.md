@@ -19,7 +19,7 @@ Added user-1 to the S3-Support group.
 
 Added user-2 to the EC2-Support group.
 
-Added user-3 to the EC2-Admin group.
+Added user-3 to the EC2-Admin group. 
 
 
 **Task 3: Test Permissions & Policies**
