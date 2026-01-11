@@ -4,7 +4,7 @@
 
 In this lab, I explored pre-created users and groups to understand the concept of Implicit Deny. I then assigned users to groups to grant them the specific permissions needed for their roles, verifying Least Privilege access.
 
-**Task Execution**
+**Task Execution** 
 
 **Task 1: Explore Users and Groups**
 
